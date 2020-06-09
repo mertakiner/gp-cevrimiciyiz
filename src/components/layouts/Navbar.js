@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a className="navbar-brand" href="/">
+        <a className="navbar-brand" href="/gp-cevrimiciyiz/">
           çevrimiçiyiz
         </a>
         <button

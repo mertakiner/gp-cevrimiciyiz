@@ -29,7 +29,7 @@ class Home extends Component {
               </h4>
               <h4 class="user-select-none">hap gibi online etkinlikler</h4>
               <a
-                href="/etkinlikler"
+                href="/gp-cevrimiciyiz/etkinlikler"
                 class="btn btn-secondary active"
                 role="button"
                 aria-pressed="true"
