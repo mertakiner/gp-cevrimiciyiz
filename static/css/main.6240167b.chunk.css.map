@@ -1,0 +1,1 @@
+{"version":3,"sources":["home.css"],"names":[],"mappings":"AAAA,oCACI,QACE,oBAEF,CACA,UACE,iBACF,CACF","file":"main.6240167b.chunk.css","sourcesContent":["@media screen and (max-width: 768px){\n    .akiner {\n      display: inline-block;\n\n    }\n    .akiner > * {\n      margin-bottom: 5px;\n    }\n  }"]}
