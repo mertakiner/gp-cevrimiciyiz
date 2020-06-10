@@ -1,0 +1,9 @@
+@media screen and (max-width: 768px){
+    .akiner {
+      display: inline-block;
+
+    }
+    .akiner > * {
+      margin-bottom: 5px;
+    }
+  }

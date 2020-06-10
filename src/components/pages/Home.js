@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "../../home.css";
 
 class Home extends Component {
 
@@ -42,7 +43,7 @@ class Home extends Component {
                 Etkinliklerden önceden haberdar olmak ister misin?
               </strong>
             </h3>
-            <div className="form-group row" >
+            <div className="form-group row akiner" >
 
               <div className="col">
 
